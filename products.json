@@ -1,0 +1,137 @@
+{
+  "banners": [
+    {
+      "image": "",
+      "title": "Banner title",
+      "description": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "almond",
+      "name": "Almonds",
+      "nameHindi": "बादाम",
+      "nameMarathi": "बदाम",
+      "description": "Premium California Almonds - Rich in protein and healthy fats",
+      "descriptionHindi": "प्रीमियम कैलिफोर्निया बादाम - प्रोटीन और स्वस्थ वसा से भरपूर",
+      "descriptionMarathi": "प्रिमियम कॅलिफोर्निया बदाम - प्रथिने आणि निरोगी चरबीने भरपूर",
+      "price": 800,
+      "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=400",
+      "category": "nuts",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "cashew",
+      "name": "Cashews",
+      "nameHindi": "काजू",
+      "nameMarathi": "काजू",
+      "description": "Premium whole cashews - Creamy texture and rich flavor",
+      "descriptionHindi": "प्रीमियम साबुत काजू - मलाईदार बनावट और समृद्ध स्वाद",
+      "descriptionMarathi": "प्रिमियम संपूर्ण काजू - मलाईदार पोत आणि समृद्ध चव",
+      "price": 1200,
+      "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?w=400",
+      "category": "nuts",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "walnut",
+      "name": "Walnuts",
+      "nameHindi": "अखरोट",
+      "nameMarathi": "अक्रोड",
+      "description": "Fresh walnuts - Excellent source of omega-3 fatty acids",
+      "descriptionHindi": "ताजे अखरोट - ओमेगा-3 फैटी एसिड का उत्कृष्ट स्रोत",
+      "descriptionMarathi": "ताजे अक्रोड - ओमेगा-3 फॅटी अॅसिडचा उत्कृष्ट स्रोत",
+      "price": 900,
+      "image": "https://images.unsplash.com/photo-1553401161-2d2ac57d4d08?w=400",
+      "category": "nuts",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "pistachio",
+      "name": "Pistachios",
+      "nameHindi": "पिस्ता",
+      "nameMarathi": "पिस्ता",
+      "description": "Premium pistachios - Perfect for snacking",
+      "descriptionHindi": "प्रीमियम पिस्ता - नाश्ते के लिए परफेक्ट",
+      "descriptionMarathi": "प्रिमियम पिस्ता - स्नॅकिंगसाठी परफेक्ट",
+      "price": 1500,
+      "image": "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=400",
+      "category": "nuts",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "hazelnut",
+      "name": "Hazelnuts",
+      "nameHindi": "हेज़लनट्स",
+      "nameMarathi": "हेझलनट्स",
+      "description": "Premium hazelnuts - Sweet and crunchy",
+      "descriptionHindi": "प्रीमियम हेज़लनट्स - मीठे और कुरकुरे",
+      "descriptionMarathi": "प्रिमियम हेझलनट्स - गोड आणि कुरकुरीत",
+      "price": 1100,
+      "image": "https://images.unsplash.com/photo-1590048026419-5b8f2fbebc99?w=400",
+      "category": "nuts",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "raisins",
+      "name": "Raisins",
+      "nameHindi": "किशमिश",
+      "nameMarathi": "मनुका",
+      "description": "Sweet golden raisins - Natural energy booster",
+      "descriptionHindi": "मीठी सुनहरी किशमिश - प्राकृतिक ऊर्जा बूस्टर",
+      "descriptionMarathi": "गोड सुवर्ण मनुका - नैसर्गिक ऊर्जा वाढवणारे",
+      "price": 400,
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+      "category": "dried-fruits",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "dates",
+      "name": "Dates",
+      "nameHindi": "खजूर",
+      "nameMarathi": "खारिक",
+      "description": "Premium Medjool dates - Nature's candy",
+      "descriptionHindi": "प्रीमियम मेडजूल खजूर - प्रकृति की कैंडी",
+      "descriptionMarathi": "प्रिमियम मेडजूल खारिक - निसर्गाची कँडी",
+      "price": 600,
+      "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=400",
+      "category": "dried-fruits",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "figs",
+      "name": "Figs",
+      "nameHindi": "अंजीर",
+      "nameMarathi": "अंजीर",
+      "description": "Dried figs - Rich in fiber and minerals",
+      "descriptionHindi": "सूखे अंजीर - फाइबर और खनिजों से भरपूर",
+      "descriptionMarathi": "वाळलेले अंजीर - फायबर आणि खनिजांनी भरपूर",
+      "price": 700,
+      "image": "https://images.unsplash.com/photo-1568649109360-2c1d7ad75b56?w=400",
+      "category": "dried-fruits",
+      "weight": "500g",
+      "inStock": true
+    },
+    {
+      "id": "apricots",
+      "name": "Dried Apricots",
+      "nameHindi": "सूखे खुबानी",
+      "nameMarathi": "वाळलेले जर्दाळू",
+      "description": "Sweet dried apricots - High in vitamin A",
+      "descriptionHindi": "मीठे सूखे खुबानी - विटामिन ए से भरपूर",
+      "descriptionMarathi": "गोड वाळलेले जर्दाळू - व्हिटॅमिन ए ने भरपूर",
+      "price": 650,
+      "image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=400",
+      "category": "dried-fruits",
+      "weight": "500g",
+      "inStock": true
+    }
+  ]
+}
