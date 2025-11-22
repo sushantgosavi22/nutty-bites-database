@@ -56,6 +56,23 @@
       "inStock": true
     },
     {
+      "id": "Anjeer",
+      "name": "Anjeer",
+      "nameHindi": "Anjeer",
+      "nameMarathi": "Anjeer",
+      "description": "Anjeer, also known as dried figs, is a highly nutritious dry fruit popular for its sweet flavor and numerous health benefits.",
+      "descriptionHindi": "Anjeer, also known as dried figs, is a highly nutritious dry fruit popular for its sweet flavor and numerous health benefits.",
+      "descriptionMarathi": "Anjeer, also known as dried figs, is a highly nutritious dry fruit popular for its sweet flavor and numerous health benefits.",
+      "price": 850,
+      "image": "https://ik.imagekit.io/keystoretech/anjeer.png",
+      "category": "Dried Fruit",
+      "nutrients":"Dried fruit, rich in dietary fiber, minerals like potassium, calcium, and iron, and antioxidants.",
+      "healthBenefits":"Anjeer, or dried figs, are a nutrient-dense dry fruit valued for their high fiber, mineral, and antioxidant content. They offer numerous health benefits, from aiding digestion to supporting heart and bone health. ",
+       "healthRating":3,
+      "weight": "500g",
+      "inStock": false
+    },
+    {
       "id": "pistachio",
       "name": "Pistachios",
       "nameHindi": "पिस्ता",
