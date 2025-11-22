@@ -18,6 +18,9 @@
       "price": 800,
       "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=400",
       "category": "nuts",
+      "nutrients":"Protein, Fiber, Vitamin E, Magnesium, healthy fats",
+      "healthBenefits":"Supports brain health, helps in weight management, good for heart and skin",
+      "healthRating":4,
       "weight": "500g",
       "inStock": true
     },
@@ -46,6 +49,9 @@
       "price": 900,
       "image": "https://images.unsplash.com/photo-1553401161-2d2ac57d4d08?w=400",
       "category": "nuts",
+      "nutrients":"Omega-3 fatty acids, Copper, Manganese, healthy fats",
+      "healthBenefits":"Boosts brain function, reduces inflammation, helps manage cholesterol levels",
+       "healthRating":3,
       "weight": "500g",
       "inStock": true
     },
