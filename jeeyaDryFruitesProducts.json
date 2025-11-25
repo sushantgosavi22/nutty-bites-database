@@ -7,6 +7,23 @@
     }
   ],
  "products": [
+     {
+      "id": "Dummy Almond",
+      "name": "Almonds",
+      "nameHindi": "बादाम",
+      "nameMarathi": "बदाम",
+      "description": "Premium California almonds rich in protein, energy, and healthy fats.",
+      "descriptionHindi": "प्रीमियम कैलिफोर्निया बादाम - प्रोटीन, ऊर्जा और स्वस्थ वसा से भरपूर।",
+      "descriptionMarathi": "प्रिमियम कॅलिफोर्निया बदाम - प्रथिने, ऊर्जा आणि निरोगी चरबीने भरपूर.",
+      "price": 1,
+      "image": "https://ik.imagekit.io/keystoretech/almond.png",
+      "category": "nuts",
+      "nutrients": "Protein, Fiber, Vitamin E, Magnesium, Healthy fats",
+      "healthBenefits": "Improves brain health, boosts energy, helps in weight management, good for skin and heart.",
+      "healthRating": 1.6,
+      "weight": "500g",
+      "inStock": true
+    },
     {
       "id": "almond",
       "name": "Almonds",
@@ -21,6 +38,23 @@
       "nutrients": "Protein, Fiber, Vitamin E, Magnesium, Healthy fats",
       "healthBenefits": "Improves brain health, boosts energy, helps in weight management, good for skin and heart.",
       "healthRating": 4.5,
+      "weight": "500g",
+      "inStock": true
+    },
+     {
+      "id": "Dummy Cashew",
+      "name": "Cashews",
+      "nameHindi": "काजू",
+      "nameMarathi": "काजू",
+      "description": "Premium whole cashews with rich flavor and creamy texture.",
+      "descriptionHindi": "प्रीमियम साबुत काजू - मलाईदार बनावट और समृद्ध स्वाद।",
+      "descriptionMarathi": "प्रिमियम संपूर्ण काजू - मलाईदार पोत आणि समृद्ध चव.",
+      "price": 1,
+      "image": "https://ik.imagekit.io/keystoretech/cashew.png",
+      "category": "nuts",
+      "nutrients": "Healthy fats, Copper, Magnesium, Protein",
+      "healthBenefits": "Boosts immunity, good for bone health, supports heart function.",
+      "healthRating": 3.8,
       "weight": "500g",
       "inStock": true
     },
